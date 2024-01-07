@@ -1,0 +1,21 @@
+{
+  "name": "iCode-Theme",
+  "displayName": "iCode Theme",
+  "description": "iCode Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "iCode Theme",
+        "uiTheme": "vs",
+        "path": "./themes/iCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
