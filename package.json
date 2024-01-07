@@ -1,7 +1,7 @@
 {
   "name": "iCode-Theme",
   "displayName": "iCode Theme",
-  "description": "iCode Theme",
+  "description": "Ultimate eye-comfortable green theme.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
@@ -14,7 +14,7 @@
       {
         "label": "iCode Theme",
         "uiTheme": "vs",
-        "path": "./themes/iCode Theme-color-theme.json"
+        "path": "./themes/iCode-color-theme.json"
       }
     ]
   }
