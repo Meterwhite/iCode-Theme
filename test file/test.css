@@ -1,0 +1,29 @@
+/* 这是一个 CSS 文件的示例 */
+/* 设置页面的背景颜色为浅蓝色 */
+body {
+  background-color: lightblue;
+}
+
+/* 设置标题的字体为 Arial，颜色为深蓝色，居中对齐 */
+h1 {
+  font-family: Arial;
+  color: darkblue;
+  text-align: center;
+}
+
+/* 设置段落的字体为 Verdana，颜色为黑色，左右边距为 20 像素 */
+p {
+  font-family: Verdana;
+  color: black;
+  margin: 0 20px;
+}
+
+/* 设置链接的颜色为红色，没有下划线，鼠标悬停时变为绿色 */
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
