@@ -67,7 +67,7 @@
 			"scope": "keyword.operator",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#00E", // 706070
+				"foreground": "#777" , // 4A6 39A669 349961 094 706070
 			}
 		},
 		{
@@ -123,7 +123,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7d40c7" //9700C1  6853cd 8952c0
+				"foreground": "#7562CC" // 7d40c7 9700C1 6853cd 8952c0
 			}
 		},
 		{
@@ -566,15 +566,16 @@
 		"peekViewResult.matchHighlightBackground": "#93C6D6",
 		"tab.lastPinnedBorder": "#B9DCB9",
 		"welcomePage.tileBackground": "#f0f0f7",
-		"activityBar.background": "#f2f2f2", // 最左侧竖条 e2eee2 d2dad2
+		"activityBar.background": "#F0EEF2", // 最左侧竖条 e2eee2 d2dad2
 		"activityBar.foreground": "#705697", // 4e3c69 705697
-		"activityBarBadge.background": "#705697", // 3c6956 705697 ed7a1d
+		"activityBarBadge.background": "#D98F6C", // D9794B 3c6956 705697 ed7a1d
 		"activityBar.border": "#FFF",
-		"statusBar.background": "#f8f8f8", // 底部条 d2d9d3 c1d7c4 d2dfda
+		"statusBar.background": "#DDD", // 底部条 d2d9d3 c1d7c4 d2dfda
+		"statusBar.border": "#FFF",
 		"statusBar.noFolderBackground": "#AAA",
 		"statusBar.debuggingBackground": "#EEE",
-		"statusBarItem.remoteBackground": "#705697", // 远程按钮 b3aeb7 4e3c69
-		"statusBarItem.remoteForeground": "#FFF",
+		"statusBarItem.remoteBackground": "#DDD", // 远程按钮 b3aeb7 4e3c69
+		"statusBarItem.remoteForeground": "#000",
 		"statusBar.foreground": "#000",
 		"ports.iconRunningProcessForeground": "#749351",
 		"titleBar.activeBackground": "#FFFFFF", // 顶部条 e8efe7 cce1cf d3e5d6 b7d7b8 c4b7d7 EBE7EC
@@ -589,7 +590,7 @@
 		"inputValidation.errorBackground": "#ffeaea",
 		"inputValidation.errorBorder": "#f1897f",
 		"errorForeground": "#f1897f",
-		"badge.background": "#705697AA", // 705697AA
+		"badge.background": "#D98F6CAA", // 705697AA
 		"badge.foreground": "#FFF",
 		"progressBar.background": "#705697",
 		"walkThrough.embeddedEditorBackground": "#00000014",
