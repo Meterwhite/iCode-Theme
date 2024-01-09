@@ -523,7 +523,7 @@
 		"editor.lineHighlightBackground": "#EFFCED", // 当前行
 		"editor.selectionBackground": "#C7E0C3", // 选中
 		"pickerGroup.foreground": "#A6B39B",
-		"pickerGroup.border": "#749351",
+		"pickerGroup.border": "#7c997c",
 		"list.activeSelectionForeground": "#6c6c6c",
 		"quickInputList.focusBackground": "#B9DCB9",
 		"list.hoverBackground": "#e0e0e0",
@@ -531,21 +531,26 @@
 		"list.inactiveSelectionBackground": "#d3dbcd",
 		"list.highlightForeground": "#9769dc",
 		"selection.background": "#B9DCB9",
-		"tab.inactiveBackground": "#F9F8F9", // 选项卡
+		"editorGroupHeader.tabsBackground": "#F4F2F4", // 选项卡tab空白处
+		"editorGroupHeader.border": "#e8e8e8",
+		"editorGroupHeader.tabsBorder": "#e8e8e8",
+		"editorGroup.border": "#FFF",
+		"tab.inactiveBackground": "#f8f8f8", // 选项卡 e7e5e5
 		"tab.activeForeground": "#000",
-		"tab.activeBackground": "#eef5f0",
+		"tab.activeBackground": "#e7e5e5", // 选项卡 选中 eef5f0
+		"tab.hoverBackground": "#e7e5e5",
 		"tab.inactiveForeground": "#000",
-		"tab.hoverBackground": "#c2c2c2",
 		"scrollbar.shadow": "#e0caffc4", // 阴影
-		"editorGroupHeader.tabsBackground": "#F8F6F8", // tab空白处
 		"breadcrumb.background": "#eef5f0", // 路径条
 		"breadcrumb.foreground": "#000", // 路径条文本
 		"editorWhitespace.foreground": "#AAAAAA",
 		"minimap.selectionHighlight": "#B9DCB9",
 		"sideBar.background": "#ebf3ea", // 左资源列表
 		"sideBar.foreground": "#647b8b", //3c6956 825590 705697
+		"sideBar.border": "#FFF", // c1e5d0
 		"sideBarSectionHeader.background": "#dfeedf", // 分栏头 ede8ef E8ECE8
 		"panel.background": "#e8efe7", // 底部面板 ebf3ea
+		"panel.border": "#FFF",
 		"editorLineNumber.activeForeground": "#9769dc",
 		"editorLineNumber.foreground": "#6D705B",
 		"editorCursor.foreground": "#54494B",
@@ -564,14 +569,15 @@
 		"activityBar.background": "#f2f2f2", // 最左侧竖条 e2eee2 d2dad2
 		"activityBar.foreground": "#705697", // 4e3c69 705697
 		"activityBarBadge.background": "#705697", // 3c6956 705697 ed7a1d
-		"statusBar.background": "#FFF", // 底部条 d2d9d3 c1d7c4 d2dfda
-		"statusBar.noFolderBackground": "#705697",
-		"statusBar.debuggingBackground": "#705697",
+		"activityBar.border": "#FFF",
+		"statusBar.background": "#f8f8f8", // 底部条 d2d9d3 c1d7c4 d2dfda
+		"statusBar.noFolderBackground": "#AAA",
+		"statusBar.debuggingBackground": "#EEE",
 		"statusBarItem.remoteBackground": "#705697", // 远程按钮 b3aeb7 4e3c69
 		"statusBarItem.remoteForeground": "#FFF",
 		"statusBar.foreground": "#000",
 		"ports.iconRunningProcessForeground": "#749351",
-		"titleBar.activeBackground": "#FFF", // 顶部条 e8efe7 cce1cf d3e5d6 b7d7b8 c4b7d7 EBE7EC
+		"titleBar.activeBackground": "#FFFFFF", // 顶部条 e8efe7 cce1cf d3e5d6 b7d7b8 c4b7d7 EBE7EC
 		"titleBar.inactiveBackground": "#f2f2f2", //  f2f2f2 c9d6cb efefef
 		"titleBar.activeForeground": "#4e3c69",
 		"button.background": "#705697",
