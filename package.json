@@ -1,18 +1,36 @@
 {
   "name": "iCode-Theme",
-  "displayName": "iCode Theme",
-  "description": "Ultimate eye-comfortable green theme.",
+  "displayName": "iCode Gaze Theme",
+  "description": "Ultimate eye-comfortable light green theme.",
   "version": "0.0.1",
+  "publisher": "meterwhite",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "keywords": [
+		"color-theme",
+		"green-theme",
+		"eye-comfortable-theme",
+    "light-theme"
+	],
+  "preview": true,
+	"homepage": "https://github.com/Meterwhite/iCode-Theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Meterwhite/iCode-Theme.git"
+	},
+	"icon": "assets/icon.png",
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+		"color": "#0F0F0F",
+		"theme": "light"
+	},
   "contributes": {
     "themes": [
       {
-        "label": "iCode Theme",
+        "label": "iCode Gaze Theme",
         "uiTheme": "vs",
         "path": "./themes/iCode-color-theme.json"
       }
