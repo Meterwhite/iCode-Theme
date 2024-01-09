@@ -27,6 +27,11 @@
 		"color": "#0F0F0F",
 		"theme": "light"
 	},
+  "scripts": {
+    "install vsce": "npm install vsce -g --save vsce",
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
   "contributes": {
     "themes": [
       {
