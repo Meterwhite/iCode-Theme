@@ -2,7 +2,7 @@
   "name": "iCode-Theme",
   "displayName": "iCode Gaze Theme",
   "description": "Ultimate eye-comfortable light green theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "meterwhite",
   "engines": {
     "vscode": "^1.85.0"
