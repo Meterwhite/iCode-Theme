@@ -531,20 +531,20 @@
 		"list.inactiveSelectionBackground": "#d3dbcd",
 		"list.highlightForeground": "#9769dc",
 		"selection.background": "#B9DCB9",
-		"editorGroupHeader.tabsBackground": "#E4EDE6", // 选项卡tab空白处 DEE3E2
+		"editorGroupHeader.tabsBackground": "#E9F0E8", // 选项卡tab空白处 DEE3E2
 		"editorGroupHeader.border": "#E8E8E8",
 		// "editorGroupHeader.tabsBorder": "#fff",
 		"editorGroup.border": "#FFF",
-		"tab.inactiveBackground": "#E1E8E3", // 选项卡 未选中 e7e5e5
+		"tab.inactiveBackground": "#E4EDE6", // 选项卡 未选中 e7e5e5
 		"tab.activeForeground": "#46647a",
-		"tab.activeBackground": "#eef5f0", // 选项卡 选中 e7e5e5 eef5f0
-		"tab.hoverBackground": "#F6FFF6", // e7e5e5
+		"tab.activeBackground": "#F6FFF6", // 选项卡 选中 e7e5e5 eef5f0
+		// "tab.hoverBackground": "#E1EBE1", // F0FAF0
 		"tab.inactiveForeground": "#1f394c",
 		"scrollbar.shadow": "#abababc4", // 阴影
-		"breadcrumb.background": "#eef5f0", // 路径条
+		"breadcrumb.background": "#F6FFF6", // 路径条
 		"breadcrumb.foreground": "#46647a", // 路径条文本
-		"breadcrumb.focusForeground": "#98a3ab",
-		"breadcrumb.activeSelectionForeground": "#9769dc",
+		"breadcrumb.focusForeground": "#000",
+		"breadcrumb.activeSelectionForeground": "#00F",
 		"editorWhitespace.foreground": "#AAAAAA",
 		"minimap.selectionHighlight": "#B9DCB9",
 		"sideBar.background": "#ebf3ea", // 左资源列表
@@ -583,8 +583,8 @@
 		"statusBarItem.prominentBackground": "#846da7",
 		"statusBar.foreground": "#000",
 		"ports.iconRunningProcessForeground": "#749351",
-		"titleBar.activeBackground": "#c5e0ca", // 顶部条 d3e5d6 cce1cf b7d7b8 c4b7d7
-		"titleBar.inactiveBackground": "#d1e0d3", // bfb5ca c8cbd4  f2f2f2 c9d6cb efefef
+		"titleBar.activeBackground": "#FFF", // 顶部条 d1e0d3 c5e0ca
+		"titleBar.inactiveBackground": "#F2F2F2", // d1e0d3
 		"titleBar.activeForeground": "#4e3c69", //4e3c69
 		"titleBar.border": "#eef5f0",
 		"button.background": "#846da7",
