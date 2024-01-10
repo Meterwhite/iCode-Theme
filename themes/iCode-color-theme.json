@@ -533,16 +533,18 @@
 		"selection.background": "#B9DCB9",
 		"editorGroupHeader.tabsBackground": "#E4EDE6", // 选项卡tab空白处 DEE3E2
 		"editorGroupHeader.border": "#E8E8E8",
-		// "editorGroupHeader.tabsBorder": "#E8E8E8",
+		// "editorGroupHeader.tabsBorder": "#fff",
 		"editorGroup.border": "#FFF",
 		"tab.inactiveBackground": "#E1E8E3", // 选项卡 未选中 e7e5e5
-		"tab.activeForeground": "#000",
+		"tab.activeForeground": "#46647a",
 		"tab.activeBackground": "#eef5f0", // 选项卡 选中 e7e5e5 eef5f0
 		"tab.hoverBackground": "#F6FFF6", // e7e5e5
-		"tab.inactiveForeground": "#000",
+		"tab.inactiveForeground": "#1f394c",
 		"scrollbar.shadow": "#abababc4", // 阴影
 		"breadcrumb.background": "#eef5f0", // 路径条
-		"breadcrumb.foreground": "#000", // 路径条文本
+		"breadcrumb.foreground": "#46647a", // 路径条文本
+		"breadcrumb.focusForeground": "#98a3ab",
+		"breadcrumb.activeSelectionForeground": "#9769dc",
 		"editorWhitespace.foreground": "#AAAAAA",
 		"minimap.selectionHighlight": "#B9DCB9",
 		"sideBar.background": "#ebf3ea", // 左资源列表
@@ -567,8 +569,8 @@
 		"peekViewResult.matchHighlightBackground": "#93C6D6",
 		"tab.lastPinnedBorder": "#B9DCB9",
 		"welcomePage.tileBackground": "#f0f0f7",
-		"activityBar.background": "#f2f2f2", // 最左侧竖条 e2eee2 d2dad2
-		"activityBar.foreground": "#846da7", // 4e3c69 705697
+		"activityBar.background": "#f2f2f2", // 最左侧竖条 e0e0e0 dee1eb e2eee2 d2dad2
+		"activityBar.foreground": "#888", // 846da7 4e3c69 705697
 		"activityBarBadge.background": "#f49468", // D9794B 3c6956 705697 ed7a1d
 		"activityBar.border": "#FFF",
 		"statusBar.background": "#F2F2F2", // 底部条 d2d9d3 c1d7c4 d2dfda
@@ -581,9 +583,10 @@
 		"statusBarItem.prominentBackground": "#846da7",
 		"statusBar.foreground": "#000",
 		"ports.iconRunningProcessForeground": "#749351",
-		"titleBar.activeBackground": "#DDD", // 顶部条 e8efe7 cce1cf d3e5d6 b7d7b8 c4b7d7 EBE7EC
-		"titleBar.inactiveBackground": "#DDD", //  f2f2f2 c9d6cb efefef
-		"titleBar.activeForeground": "#4e3c69",
+		"titleBar.activeBackground": "#c5e0ca", // 顶部条 d3e5d6 cce1cf b7d7b8 c4b7d7
+		"titleBar.inactiveBackground": "#d1e0d3", // bfb5ca c8cbd4  f2f2f2 c9d6cb efefef
+		"titleBar.activeForeground": "#4e3c69", //4e3c69
+		"titleBar.border": "#eef5f0",
 		"button.background": "#846da7",
 		"editorGroup.dropBackground": "#B9DCB988",
 		"inputValidation.infoBorder": "#4ec1e5",
