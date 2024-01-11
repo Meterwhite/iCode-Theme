@@ -7,6 +7,7 @@ This theme is designed for long-term use. I experience eye fatigue when using da
 
 ![Shot](https://github.com/Meterwhite/iCode-Theme/raw/master/assets/3.png)
 
+![Shot](https://github.com/Meterwhite/iCode-Theme/raw/master/assets/4.png)
 
 **Enjoy!**
 

@@ -67,7 +67,7 @@
 			"scope": "keyword.operator",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#777" , // 4A6 39A669 349961 094 706070
+				"foreground": "#777", // 4A6 39A669 349961 094 706070
 			}
 		},
 		{
@@ -118,6 +118,7 @@
 		{
 			"name": "Functions",
 			"scope": [
+				// entity.name.function = entity.name.function.member +  entity.name.function.macro
 				"entity.name.function",
 				"support.function"
 			],
@@ -130,13 +131,12 @@
 			"name": "Classes",
 			"scope": [
 				"entity.name.type",
-				// "entity.name.namespace",
+				"entity.name.type.interface",
 				"entity.name.scope-resolution",
 				"entity.other.inherited-class",
 				"support.class"
 			],
 			"settings": {
-				// "fontStyle": "bold",
 				"foreground": "#b12d7c" //b12d7c
 			}
 		},
@@ -164,7 +164,16 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#df6531" // ed7a1d df6531
+				"foreground": "#D97441" // df7a4f df6531 d9794b
+			}
+		},
+		{
+			"name": "Enum memberS",
+			"scope": [
+				"variable.other.enummember"
+			],
+			"settings": {
+				"foreground": "#D95321" // df7a4f df6531 d9794b
 			}
 		},
 		{
@@ -189,8 +198,8 @@
 				"constant"
 			],
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#8C6E30" // 9700C1 a37223 3D3D99
+				// "fontStyle": "bold",
+				"foreground": "#007AE0" //0066BB  13ac44 1ae6e6
 			}
 		},
 		{
@@ -311,7 +320,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#FA7D41"
+				"foreground": "#D97441"
 			}
 		},
 		{
@@ -531,7 +540,7 @@
 		"list.inactiveSelectionBackground": "#d3dbcd",
 		"list.highlightForeground": "#9769dc",
 		"selection.background": "#B9DCB9",
-		"editorGroupHeader.tabsBackground": "#E9F0E8", // 选项卡tab空白处 DEE3E2
+		"editorGroupHeader.tabsBackground": "#E9F0E8", // 选项卡tab 空白处 DEE3E2
 		"editorGroupHeader.border": "#E8E8E8",
 		// "editorGroupHeader.tabsBorder": "#fff",
 		"editorGroup.border": "#FFF",
@@ -577,7 +586,7 @@
 		"statusBar.border": "#FFF",
 		"statusBar.noFolderBackground": "#F2F2F2", // C5FCD2 F0FFFC F0FFFA
 		"statusBar.debuggingBackground": "#FFF",
-		"statusBarItem.remoteBackground": "#F2F2F2",
+		"statusBarItem.remoteBackground": "#F2F2F2", // 远程
 		"statusBarItem.remoteForeground": "#000",
 		"statusBarItem.prominentForeground": "#FFF",
 		"statusBarItem.prominentBackground": "#846DA7",
@@ -603,5 +612,8 @@
 		"editorIndentGuide.background": "#aaaaaa60",
 		"editorIndentGuide.activeBackground": "#777777B0"
 	},
-	"semanticHighlighting": true
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"macro": "#8C6E30", // https://www.vscode.org.cn/api/language-extensions/semantic-highlight-guide
+	}
 }
