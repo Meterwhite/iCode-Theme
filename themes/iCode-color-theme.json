@@ -546,8 +546,7 @@
 		"editorGroup.border": "#FFF",
 		"tab.inactiveBackground": "#E4EDE6", // 选项卡 未选中 e7e5e5
 		"tab.activeForeground": "#46647a",
-		"tab.activeBackground": "#F6FFF6", // 选项卡 选中 e7e5e5 eef5f0
-		// "tab.hoverBackground": "#E1EBE1", // F0FAF0
+		"tab.activeBackground": "#F6FFF6", // 选项卡 选中
 		"tab.inactiveForeground": "#1f394c",
 		"scrollbar.shadow": "#abababc4", // 阴影
 		"breadcrumb.background": "#F6FFF6", // 路径条
@@ -556,12 +555,12 @@
 		"breadcrumb.activeSelectionForeground": "#00F",
 		"editorWhitespace.foreground": "#AAAAAA",
 		"minimap.selectionHighlight": "#B9DCB9",
-		"sideBar.background": "#ebf3ea", // 左资源列表
+		"sideBar.background": "#EBF3EA", // 左资源列表 
 		"sideBar.foreground": "#647b8b", //3c6956 825590 705697
-		"sideBar.border": "#FFF", // c1e5d0
-		"sideBarSectionHeader.background": "#deeddf", // 分栏头 ede8ef E8ECE8
-		"sideBarSectionHeader.border": "#ebf3ea",
-		"panel.background": "#e8efe7", // 底部面板
+		"sideBar.border": "#FFF",
+		"sideBarSectionHeader.background": "#deeddf", // 分栏头
+		"sideBarSectionHeader.border": "#EBF3EA",
+		"panel.background": "#E9F0EA", // 底部面板
 		"panel.border": "#FFF",
 		"editorLineNumber.activeForeground": "#9769dc",
 		"editorLineNumber.foreground": "#6D705B",
