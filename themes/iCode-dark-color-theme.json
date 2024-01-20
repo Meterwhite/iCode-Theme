@@ -1,5 +1,5 @@
 {
-	"name": "iCode Dark Theme",
+	"name": "iCode Theme",
 	"tokenColors": [
 		{
 			"settings": {
@@ -67,7 +67,7 @@
 			"scope": "keyword.operator",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#777"
+				"foreground": "#777", // 4A6 39A669 349961 094 706070
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#CD3C60"
+				"foreground": "#CD3C60", // B9267E CD3C60
 			}
 		},
 		{
@@ -528,8 +528,8 @@
 	],
 	"colors": {
 		"focusBorder": "#7c9981", // 705697
-		"editor.background": "#000", // 背景色 D7F0DF e4f1e2
-		"editor.lineHighlightBackground": "#EFFCED", // 当前行
+		"editor.background": "#3b4639", // 背景色 D7F0DF e4f1e2
+		// "editor.lineHighlightBackground": "#EFFCED", // 当前行
 		"editor.selectionBackground": "#C7E0C3", // 选中
 		"pickerGroup.foreground": "#a1b39b",
 		"pickerGroup.border": "#7c9980",
