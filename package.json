@@ -41,6 +41,11 @@
         "label": "iCode Gaze Theme",
         "uiTheme": "vs",
         "path": "./themes/iCode-color-theme.json"
+      },
+      {
+        "label": "iCode Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iCode-dark-color-theme.json"
       }
     ]
   }
