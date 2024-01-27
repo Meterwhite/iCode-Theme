@@ -117,7 +117,7 @@
 		{
 			"name": "Functions",
 			"scope": [
-				// entity.name.function = entity.name.function.member +  entity.name.function.macro
+				// 无效的 entity.name.function = entity.name.function.member +  entity.name.function.macro
 				"entity.name.function",
 				"support.function"
 			],

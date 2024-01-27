@@ -1,8 +1,8 @@
 {
   "name": "iCode-Theme",
   "displayName": "iCode Gaze Theme",
-  "description": "Ultimate eye-comfortable light green theme.",
-  "version": "0.0.3",
+  "description": "Ultimate eye-comfortable theme is designed to reduce eye strain for long-term use. This theme adapts to Windows, macOS, sRGB, P3, night mode, and high dynamic range.",
+  "version": "0.0.4",
   "publisher": "meterwhite",
   "engines": {
     "vscode": "^1.85.0"
