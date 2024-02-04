@@ -78,7 +78,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#4076cc"
+				"foreground": "#4D77BF"
 			}
 		},
 		{
@@ -101,7 +101,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#4076cc"
+				"foreground": "#4D77BF"
 			}
 		},
 		{
@@ -123,7 +123,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7562CC"
+				"foreground": "#6B63BF"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#b12d7c"
+				"foreground": "#B2598F"
 			}
 		},
 		{
@@ -146,14 +146,14 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#b12d7c"
+				"foreground": "#B2598F"
 			}
 		},
 		{
 			"name": "Property",
 			"scope": "variable.other.property",
 			"settings": {
-				"foreground": "#8A24B2"
+				"foreground": "#814599"
 			}
 		},
 		{
@@ -163,7 +163,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#D97441"
+				"foreground": "#D7843D"
 			}
 		},
 		{
@@ -172,7 +172,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#D95321"
+				"foreground": "#D1782A"
 			}
 		},
 		{
@@ -610,6 +610,6 @@
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"macro": "#8C6E30", // https://www.vscode.org.cn/api/language-extensions/semantic-highlight-guide
+		"macro": "#8C6D3B", // https://www.vscode.org.cn/api/language-extensions/semantic-highlight-guide
 	}
 }
