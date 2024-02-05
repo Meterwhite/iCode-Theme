@@ -549,7 +549,7 @@
 		"breadcrumb.focusForeground": "#000",
 		"breadcrumb.activeSelectionForeground": "#00F",
 		"editorWhitespace.foreground": "#AAAAAA",
-		"minimap.selectionHighlight": "#B9DCB9",
+		"minimap.selectionHighlight": "#50505050",
 		"sideBar.background": "#EBF3EA",
 		"sideBar.foreground": "#647b8b",
 		"sideBar.border": "#FFF",
