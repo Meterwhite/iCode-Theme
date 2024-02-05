@@ -117,7 +117,6 @@
 		{
 			"name": "Functions",
 			"scope": [
-				// 无效的 entity.name.function = entity.name.function.member +  entity.name.function.macro
 				"entity.name.function",
 				"support.function"
 			],
@@ -537,27 +536,26 @@
 		"list.inactiveSelectionBackground": "#d3dbcd",
 		"list.highlightForeground": "#9769dc",
 		"selection.background": "#B9DCB9",
-		"editorGroupHeader.tabsBackground": "#E9F0E8", // 选项卡空白
+		"editorGroupHeader.tabsBackground": "#E9F0E8",
 		"editorGroupHeader.border": "#E8E8E8",
-		// "editorGroupHeader.tabsBorder": "#fff",
 		"editorGroup.border": "#FFF",
-		"tab.inactiveBackground": "#E4EDE6", // 选项卡 未选中 e7e5e5
+		"tab.inactiveBackground": "#E4EDE6",
 		"tab.activeForeground": "#46647a",
-		"tab.activeBackground": "#F6FFF6", // 选项卡 选中
+		"tab.activeBackground": "#F6FFF6",
 		"tab.inactiveForeground": "#1f394c",
-		"scrollbar.shadow": "#abababc4", // 阴影
-		"breadcrumb.background": "#F6FFF6", // 路径条
-		"breadcrumb.foreground": "#46647a", // 路径条文本
+		"scrollbar.shadow": "#abababc4",
+		"breadcrumb.background": "#F6FFF6", 
+		"breadcrumb.foreground": "#46647a",
 		"breadcrumb.focusForeground": "#000",
 		"breadcrumb.activeSelectionForeground": "#00F",
 		"editorWhitespace.foreground": "#AAAAAA",
 		"minimap.selectionHighlight": "#B9DCB9",
-		"sideBar.background": "#EBF3EA", // 左资源列表 
+		"sideBar.background": "#EBF3EA",
 		"sideBar.foreground": "#647b8b",
 		"sideBar.border": "#FFF",
-		"sideBarSectionHeader.background": "#deeddf", // 分栏头
+		"sideBarSectionHeader.background": "#deeddf",
 		"sideBarSectionHeader.border": "#EBF3EA",
-		"panel.background": "#E9F0EA", // 底部面板
+		"panel.background": "#E9F0EA",
 		"panel.border": "#FFF",
 		"editorLineNumber.activeForeground": "#9769dc",
 		"editorLineNumber.foreground": "#6D705B",
@@ -574,21 +572,21 @@
 		"peekViewResult.matchHighlightBackground": "#93C6D6",
 		"tab.lastPinnedBorder": "#B9DCB9",
 		"welcomePage.tileBackground": "#F0F0F7",
-		"activityBar.background": "#F2F2F2", // 最左侧竖条
+		"activityBar.background": "#F2F2F2",
 		"activityBar.foreground": "#888", 
 		"activityBarBadge.background": "#F49468",
 		"activityBar.border": "#FFF",
-		"statusBar.background": "#F2F2F2", // 底部条
+		"statusBar.background": "#F2F2F2",
 		"statusBar.border": "#FFF",
 		"statusBar.noFolderBackground": "#F2F2F2", 
 		"statusBar.debuggingBackground": "#FFF",
-		"statusBarItem.remoteBackground": "#F2F2F2", // 远程
+		"statusBarItem.remoteBackground": "#F2F2F2",
 		"statusBarItem.remoteForeground": "#000",
 		"statusBarItem.prominentForeground": "#FFF",
 		"statusBarItem.prominentBackground": "#846DA7",
 		"statusBar.foreground": "#000",
 		"ports.iconRunningProcessForeground": "#749351",
-		"titleBar.activeBackground": "#FFF", // 顶部条
+		"titleBar.activeBackground": "#FFF",
 		"titleBar.inactiveBackground": "#F2F2F2",
 		"titleBar.activeForeground": "#4e3C69",
 		"titleBar.border": "#eef5f0",
@@ -610,6 +608,6 @@
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"macro": "#8C6D3B", // https://www.vscode.org.cn/api/language-extensions/semantic-highlight-guide
+		"macro": "#8C6D3B",
 	}
 }
