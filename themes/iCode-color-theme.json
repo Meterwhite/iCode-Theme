@@ -78,7 +78,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#4D77BF"
+				"foreground": "#2F8BCC"
 			}
 		},
 		{
@@ -101,7 +101,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#4D77BF"
+				"foreground": "#2F8BCC"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#B2598F"
+				"foreground": "#AD4D87"
 			}
 		},
 		{
@@ -145,14 +145,14 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#B2598F"
+				"foreground": "#AD4D87"
 			}
 		},
 		{
 			"name": "Property",
 			"scope": "variable.other.property",
 			"settings": {
-				"foreground": "#814599"
+				"foreground": "#8B4EAE"
 			}
 		},
 		{
@@ -549,7 +549,7 @@
 		"breadcrumb.focusForeground": "#000",
 		"breadcrumb.activeSelectionForeground": "#00F",
 		"editorWhitespace.foreground": "#AAAAAA",
-		"minimap.selectionHighlight": "#B9DCB9",
+		"minimap.selectionHighlight": "#50505050",
 		"sideBar.background": "#EBF3EA",
 		"sideBar.foreground": "#647b8b",
 		"sideBar.border": "#FFF",
