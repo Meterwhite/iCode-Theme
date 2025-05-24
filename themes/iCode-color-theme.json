@@ -78,7 +78,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#2F8BCC"
+				"foreground": "#517CE0"
 			}
 		},
 		{
@@ -101,7 +101,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#2F8BCC"
+				"foreground": "#517CE0"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#384D70"
+				"foreground": "#194F81"
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#6B63BF"
+				"foreground": "#726ACC"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#AD4D87"
+				"foreground": "#B24789"
 			}
 		},
 		{
@@ -145,7 +145,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AD4D87"
+				"foreground": "#B24789"
 			}
 		},
 		{
