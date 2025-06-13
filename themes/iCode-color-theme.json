@@ -608,6 +608,6 @@
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"macro": "#8C6D3B",
+		"macro": "#8C744E",
 	}
 }
