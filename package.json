@@ -2,10 +2,10 @@
   "name": "iCode-Theme",
   "displayName": "iCode Gaze Theme",
   "description": "Ultimate eye-comfortable theme is designed to reduce eye strain for long-term use. This theme adapts to Windows, macOS, sRGB, P3, night mode, and high dynamic range.",
-  "version": "0.0.7",
+  "version": "2025.6.14",
   "publisher": "meterwhite",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.25.0"
   },
   "keywords": [
     "color-theme",
@@ -14,7 +14,8 @@
     "light-theme",
     "iCode-theme",
     "XCode-theme",
-    "fruit-theme"
+    "fruit-theme",
+    "reduce-eye-strain-theme"
   ],
   "preview": false,
   "homepage": "https://github.com/Meterwhite/iCode-Theme",
@@ -41,6 +42,11 @@
         "label": "iCode Gaze Theme",
         "uiTheme": "vs",
         "path": "./themes/iCode-color-theme.json"
+      },
+      {
+        "label": "iCode Gaze Theme - D",
+        "uiTheme": "vs",
+        "path": "./themes/iCode-d-color-theme.json"
       }
     ]
   }
