@@ -1,8 +1,8 @@
 {
   "name": "iCode-Theme",
   "displayName": "iCode Gaze Theme",
-  "description": "Ultimate eye-comfortable theme is designed to reduce eye strain for long-term use. This theme adapts to Windows, macOS, sRGB, P3, night mode, and high dynamic range.",
-  "version": "2025.6.15",
+  "description": "Turns your monitor into a retina day-spa. iCode Gaze Theme lets you blaze through 30 000 lines without blinking—auto-adapting to Windows, macOS, sRGB, P3, HDR, and midnight coding marathons.",
+  "version": "2025.6.16",
   "publisher": "meterwhite",
   "engines": {
     "vscode": "^1.25.0"

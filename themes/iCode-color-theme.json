@@ -531,9 +531,9 @@
 		"pickerGroup.border": "#7c9980",
 		"list.activeSelectionForeground": "#6c6c6c",
 		"quickInputList.focusBackground": "#B9DCB9",
-		"list.hoverBackground": "#e0e0e0",
+		"list.hoverBackground": "#e0e8e0",
 		"list.activeSelectionBackground": "#d1dfd3",
-		"list.inactiveSelectionBackground": "#d3dbcd",
+		"list.inactiveSelectionBackground": "#ece5d5", // dbd7cd d3dbcd
 		"list.highlightForeground": "#9769dc",
 		"selection.background": "#B9DCB9",
 		"editorGroupHeader.tabsBackground": "#E9F0E8",
