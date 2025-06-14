@@ -606,7 +606,8 @@
 		"walkThrough.embeddedEditorBackground": "#00000014",
 		"editorIndentGuide.background": "#aaaaaa60",
 		"editorIndentGuide.activeBackground": "#777777B0",
-		"notifications.background": "#EFE",
+		"notifications.background": "#e3f0e3",
+		"notifications.foreground": "#333333",
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
