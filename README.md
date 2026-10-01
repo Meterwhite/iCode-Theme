@@ -1,5 +1,12 @@
 # iCode Gaze Theme
-This theme is designed for long-term use in front of the screen. Using a dark theme for a long time can cause eye muscle fatigue due to iris dilation. Therefore, a light theme is more suitable for long-term use. With this theme, you can choose to lower the screen brightness or turn on night mode and still have a great experience. It has been color-adjusted for both Windows and Mac OS X.
+A carefully crafted eye-care theme with sage-green design. Full ModernUI support. Optimized for dark screens and Night Shift mode. Code comfortably for hours without eye strain.
+
+**Features:**
+- **Sage-green palette**: Scientifically designed to reduce eye fatigue during long coding sessions
+- **ModernUI support**: Complete styling for VS Code's modern UI
+- **Dark screen & Night Shift optimized**: Perfect for low-light environments and devices with Night Shift enabled
+- **D-Mode (Dark Boundary Design)**: A darker border variant that reduces screen edge fatigue and improves visual comfort
+- **Years of refinement**: Continuously improved based on real-world usage patterns
 
 ![Shot](https://github.com/Meterwhite/iCode-Theme/raw/master/assets/1.png)
 

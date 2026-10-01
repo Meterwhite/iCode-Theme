@@ -1,15 +1,15 @@
 {
   "name": "iCode-Theme",
   "displayName": "iCode Gaze Theme",
-  "description": "Turns your monitor into a retina day-spa. iCode Gaze Theme lets you blaze through 30 000 lines without blinking—auto-adapting to Windows, macOS, sRGB, P3, HDR, and midnight coding marathons.",
-  "version": "2025.6.16",
+  "description": "A carefully crafted eye-care theme with sage-green design. Full ModernUI support. Optimized for dark screens and Night Shift mode. Code comfortably for hours without eye strain.",
+  "version": "2026.10.2",
   "publisher": "meterwhite",
   "engines": {
     "vscode": "^1.25.0"
   },
   "keywords": [
     "color-theme",
-    "green-theme",
+    "sage-green-theme",
     "eye-comfortable-theme",
     "light-theme",
     "iCode-theme",
