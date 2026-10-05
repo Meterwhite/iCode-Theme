@@ -2,7 +2,7 @@
   "name": "iCode-Theme",
   "displayName": "iCode Gaze Theme",
   "description": "A carefully crafted eye-care theme with sage-green design. Full ModernUI support. Optimized for dark screens and Night Shift mode. Code comfortably for hours without eye strain.",
-  "version": "2026.10.4",
+  "version": "2026.10.6",
   "publisher": "meterwhite",
   "engines": {
     "vscode": "^1.25.0"
